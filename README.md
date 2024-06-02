@@ -1,4 +1,4 @@
-<img width="807" alt="312707158-72b1f90d-437f-4148-9b11-855a1743d14b" src="https://github.com/09030582226039/Switching/assets/126418106/c8a11583-c12d-4a1c-86e2-00a2d5bda1c2"><img width="1169" alt="312706892-f01f65d2-7455-432f-b66f-97690bdf4a0d" src="https://github.com/09030582226039/Switching/assets/126418106/78bdd430-b456-4363-afde-368ab7381eb6"><img width="831" alt="312706651-c14fd027-e0f2-45ab-b316-13c49d6d9ae0" src="https://github.com/09030582226039/Switching/assets/126418106/4b38d715-2c0a-4762-98b0-90f229947f13">Praktikum Jaringan Komputer
+Praktikum Jaringan Komputer
 
 Nama : Hafizhan awadh
 NIM : 09030582226039
